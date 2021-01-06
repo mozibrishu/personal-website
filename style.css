@@ -43,6 +43,33 @@ section{
 h3{
     font-size: 48px;
 }
+#latest-working-project{
+    height: 700px;
+    background-color: #e5e5e5;
+    width: 96%;
+    padding: 2%;
+}
+#last-project-heading{
+    text-align: center;
+}
+h4{
+    font-size: 24px;
+}
+
+.one-third-width{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    padding: 1%;
+    border: 1px solid red;
+}
+#project-box{
+    width: 90%;
+    padding: 5%;
+}
+.one-third-width img{
+    width: 100%;
+}
 
 /*
 font-family: 'Bebas Neue', cursive;
